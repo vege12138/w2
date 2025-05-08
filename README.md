@@ -1,6 +1,5 @@
 # Robust Contrastive Graph Clustering based on Local-Global
 
-## Getting Started
 
 ### Dataset and Configuration
 - All dataset selection and training hyperparameters can be modified in the `opt.py` file.
