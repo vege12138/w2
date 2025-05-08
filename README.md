@@ -1,7 +1,5 @@
 # Robust Contrastive Graph Clustering based on Local-Global
 
-This repository contains the implementation of a robust contrastive graph clustering framework that integrates both local and global structural information.
-
 ## Getting Started
 
 ### Dataset and Configuration
